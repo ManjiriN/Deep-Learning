@@ -1,4 +1,4 @@
-# Predicting screen time of characters from a video using OpenCV an Keras
+# Predicting screen time of characters from a video using OpenCV and Keras
 This repository shares how we can predict screen time of characters from a video.
 I am using Tom and Jerry video for this prediction and output is the screen time of Tom amd Jerry in seconds
 #### I have considered following instances:
